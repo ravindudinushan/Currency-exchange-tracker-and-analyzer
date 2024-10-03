@@ -61,11 +61,11 @@ function App() {
         Convert Your Currencies Today
       </h1>
       <p className="lg:mx-32 font-sm opacity-40 py-6">
-        Welcome to "Convert Your Currencies Today"! This application allows you
+        {/* Welcome to "Convert Your Currencies Today"! This application allows you
         to easily convert currencies based on the latest exchange rates. Whether
         you're planning a trip, managing your finances, or simply curious about
         the value of your money in different currencies, this tool is here to
-        help.
+        help. */}
       </p>
       <div className=" mt-5 flex items-center justify-center flex-col">
         <section className="w-full lg:w-1/2">
